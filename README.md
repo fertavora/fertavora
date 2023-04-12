@@ -4,7 +4,7 @@ I am Fernando Tavora and my goal is to provide public repositories with test aut
 - Selenium Webdriver: Gradle, Java, TestNG
 - API Test automation with Java: both RestAssured and Java built-in HTTPClient
 - Playwright: either in Java and Javascript (or Typescript, why not?)
-- Cypress
+- Playwright
 - WebdriverIO
 
 # Road Map
